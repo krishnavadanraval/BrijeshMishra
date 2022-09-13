@@ -1,0 +1,13 @@
+C:\Users\BrijeshMishra\VSTest\DiamondPattern\DiamondPattern\bin\Debug\netcoreapp3.1\DiamondPattern.exe
+C:\Users\BrijeshMishra\VSTest\DiamondPattern\DiamondPattern\bin\Debug\netcoreapp3.1\DiamondPattern.deps.json
+C:\Users\BrijeshMishra\VSTest\DiamondPattern\DiamondPattern\bin\Debug\netcoreapp3.1\DiamondPattern.runtimeconfig.json
+C:\Users\BrijeshMishra\VSTest\DiamondPattern\DiamondPattern\bin\Debug\netcoreapp3.1\DiamondPattern.runtimeconfig.dev.json
+C:\Users\BrijeshMishra\VSTest\DiamondPattern\DiamondPattern\bin\Debug\netcoreapp3.1\DiamondPattern.dll
+C:\Users\BrijeshMishra\VSTest\DiamondPattern\DiamondPattern\bin\Debug\netcoreapp3.1\DiamondPattern.pdb
+C:\Users\BrijeshMishra\VSTest\DiamondPattern\DiamondPattern\obj\Debug\netcoreapp3.1\DiamondPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrijeshMishra\VSTest\DiamondPattern\DiamondPattern\obj\Debug\netcoreapp3.1\DiamondPattern.AssemblyInfoInputs.cache
+C:\Users\BrijeshMishra\VSTest\DiamondPattern\DiamondPattern\obj\Debug\netcoreapp3.1\DiamondPattern.AssemblyInfo.cs
+C:\Users\BrijeshMishra\VSTest\DiamondPattern\DiamondPattern\obj\Debug\netcoreapp3.1\DiamondPattern.csproj.CoreCompileInputs.cache
+C:\Users\BrijeshMishra\VSTest\DiamondPattern\DiamondPattern\obj\Debug\netcoreapp3.1\DiamondPattern.dll
+C:\Users\BrijeshMishra\VSTest\DiamondPattern\DiamondPattern\obj\Debug\netcoreapp3.1\DiamondPattern.pdb
+C:\Users\BrijeshMishra\VSTest\DiamondPattern\DiamondPattern\obj\Debug\netcoreapp3.1\DiamondPattern.genruntimeconfig.cache
